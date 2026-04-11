@@ -46,6 +46,7 @@ export const defaultContentPageLayout: PageLayout = {
     Component.Backlinks(),
   ],
 }
+
 Component.Graph({
   localGraph: {
     drag: true, // whether to allow panning the view around

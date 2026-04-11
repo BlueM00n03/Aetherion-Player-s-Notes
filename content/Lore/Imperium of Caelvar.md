@@ -4,7 +4,7 @@ The Imperium of Caelvar is a vast and unified power, composed of multiple kingdo
 
 While each kingdom maintains its own identity and function, all contribute to the strength and stability of the Imperium as a whole.
 
-At its center lies [[Caelvaris the capital of Caelvar]], a city unlike any other, where political, economic, and strategic power converge.
+At its center lies [[Caelvaris, The capital of Caelvar]], a city unlike any other, where political, economic, and strategic power converge.
 
 ---
 
@@ -24,7 +24,7 @@ Each kingdom fulfills a role that supports the Imperium as a whole.
 ---
 
 ### The Capital
-At the heart of the Imperium lies [[Caelvaris the capital of Caelvar]].
+At the heart of the Imperium lies [[Caelvaris, The capital of Caelvar]].
 
 It is said to be as large as an entire kingdom’s worth of cities combined, divided into multiple districts and surrounded by massive walls.
 
@@ -78,7 +78,7 @@ These influences shape how decisions are made within institutions, often creatin
 ---
 
 ### The Role of the Capital
-While [[Caelvaris the capital of Caelvar]] is the center of power, it does not directly control every aspect of the Imperium.
+While [[Caelvaris, The capital of Caelvar]] is the center of power, it does not directly control every aspect of the Imperium.
 
 Instead, it acts as:
 
